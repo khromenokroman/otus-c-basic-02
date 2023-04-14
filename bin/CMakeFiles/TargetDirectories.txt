@@ -1,3 +1,0 @@
-/home/roma/Coding/c++/otus/basic/02/bin/CMakeFiles/rebuild_cache.dir
-/home/roma/Coding/c++/otus/basic/02/bin/CMakeFiles/edit_cache.dir
-/home/roma/Coding/c++/otus/basic/02/bin/CMakeFiles/hello_world.dir
