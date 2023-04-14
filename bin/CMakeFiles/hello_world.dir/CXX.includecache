@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/roma/Coding/c++/otus/basic/02/example.cpp
+example.h
+/home/roma/Coding/c++/otus/basic/02/example.h
+iostream
+-
+
+/home/roma/Coding/c++/otus/basic/02/example.h
+
+/home/roma/Coding/c++/otus/basic/02/func.cpp
+func.h
+/home/roma/Coding/c++/otus/basic/02/func.h
+iostream
+-
+
+/home/roma/Coding/c++/otus/basic/02/func.h
+
+/home/roma/Coding/c++/otus/basic/02/hello_world.cpp
+example.h
+/home/roma/Coding/c++/otus/basic/02/example.h
+func.h
+/home/roma/Coding/c++/otus/basic/02/func.h
+iostream
+-
+
